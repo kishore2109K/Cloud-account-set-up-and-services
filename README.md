@@ -1,9 +1,9 @@
 
 # EX NO: Cloud-account-set-up-and-services
 
-Name : MUGIL RAJ S A
+Name : KISHORE K
 
-Reg no: 212223220062
+Reg no: 212223040101
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
